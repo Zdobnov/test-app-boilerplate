@@ -6,6 +6,6 @@ Boilerplate for quick start test application
 - [x] Add Router
 - [x] Add Enzyme for tests
 - [ ] Add Fela or another tool for `css-in-js`
-- [ ] Add Axios
+- [x] Add Axios
 - [ ] Add Redux
 - [ ] Refactor
